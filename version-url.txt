@@ -1,0 +1,2 @@
+1.0.1
+http://192.168.0.102:8080/esp32_remote_ota_version.ino.bin

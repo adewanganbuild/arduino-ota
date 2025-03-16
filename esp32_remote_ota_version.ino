@@ -3,8 +3,8 @@
 #include <Update.h>
 
 // WiFi Credentials
-const char* ssid = "myguest";
-const char* password = "123123123";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 // URL of the version file
 const char* version_url = "http://192.168.0.102:8080/version-url.txt";  
